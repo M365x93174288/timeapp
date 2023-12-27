@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/M365x93174288/timeapp#readme",
   "dependencies": {
-    "moment": "^2.29.4"
+    "moment": "^2.30.1"
   }
 }
